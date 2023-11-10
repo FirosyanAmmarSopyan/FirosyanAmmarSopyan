@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙌 I am currently fresh graduate<br>✌   I'm looking for collaboration or relationships to be invited to work together<br>🤦‍♂️ I also need help to study with me<br>🐱‍🚀 I'm currently learning the javascript, ReactJs, React Native, and vueJs programming languages<br>🐱‍🏍 I like watching movies and playing games<br>👀 fun fact: I sometimes like to joke
+🙌 I am Fullstack Javascript<br>✌ I'm looking for collaboration or relationships to be invited to work together<br>🤦‍♂️ I also attended a bootcamp Hacktiv8<br>🐱‍🚀 I'm currently learning the javascript, ReactJs, React Native, and vueJs programming languages<br>🐱‍🏍 I like watching movies and playing games<br>👀 fun fact: I sometimes like to joke
 
 
 ## 🌐 Socials:
